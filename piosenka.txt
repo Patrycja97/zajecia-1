@@ -10,5 +10,4 @@ zwrotka3.txt
 
 refren3.txt
 
-Don't wake me up
-Just leave me there dreaming
+zwrotka4.txt
