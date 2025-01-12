@@ -1,7 +1,6 @@
 zwrotka1.txt
 
-Down, down, down by the river
-Down, down, down by the river (By the river)
+refren1.txt
 
 Hanging moon in fog
 Mists will lead where you belong
