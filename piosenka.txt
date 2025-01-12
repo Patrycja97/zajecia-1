@@ -8,9 +8,7 @@ refren2.txt
 
 zwrotka3.txt
 
-Down, down, down by the river (By the river)
-Down, down, down by the river
-Down, down, down by the river (By the river)
+refren3.txt
 
 Don't wake me up
 Just leave me there dreaming
