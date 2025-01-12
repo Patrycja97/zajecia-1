@@ -1,0 +1,170 @@
+    1  git
+    2  git -v
+    3  git status
+    4  open .
+    5  start .
+    6  start .
+    7  start .
+    8  cd .
+    9  git ls
+   10  git --help
+   11  git -v
+   12  git init
+   13  nano piosenka.txt
+   14  git status
+   15  git add piosenka.txt
+   16  git commit -m "adding the song"
+   17  git status
+   18  git add <piosenka.txt>
+   19  cd piosenka.txt
+   20  git status
+   21  git ls -l
+   22  lfs
+   23  mkdir moje_repozytorium
+   24  cd moje_repozytorium
+   25  git init
+   26  nano piosenka.txt
+   27  git remote -v
+   28  git remote add origin https://github.com/Patrycja97/prace_domowe.git
+   29  git remote -v
+   30  git cd piosenka.txt
+   31  git push original main
+   32  cd .
+   33  nano piosenka.txt
+   34  git add piosenka.txt
+   35  git clear
+   36  clean
+   37  clear
+   38  git status
+   39  git add piosenka.txt
+   40  git commit -m "adding piosenka.txt
+   41  git push
+   42  git status
+   43  clear
+   44  git status
+   45  cd moje_repozytorium
+   46  ls
+   47  git status
+   48  git remote -v
+   49  git push -u origin main
+   50  git push origin main
+   51  git branch -M main
+   52  git push -u origin main
+   53  clear
+   54  cd moje_repozytorium
+   55  cd piosenka.txt
+   56  cd moje_repozytorium
+   57  ls
+   58  git status
+   59  git commit -m "adding file piosenka.txt"
+   60  git push
+   61  git push --set-upstream origin main
+   62  cd moje_repozytorium
+   63  git status
+   64  git -v
+   65  git status
+   66  git init
+   67  rm .git
+   68  open .
+   69  start .
+   70  git
+   71  pwd
+   72  mkdir python33-git
+   73  pwd
+   74  cd python33-git
+   75  mkdir zajecia-1
+   76  cd zajecia-1/
+   77  git init
+   78  nano piosenka.txt
+   79  cat piosenka.txt
+   80  git add piosenka.txt
+   81  git status
+   82  git commit -m "dodanie pliku piosenka.txt"
+   83  git status
+   84  touch zwrotka1.txt
+   85  touch zwrotka2.txt
+   86  touch zwrotka3.txt
+   87  touch zwrotka4.txt
+   88  touch refren1.txt refren2.txt refren3.txt
+   89  git ls
+   90  ls
+   91  start piosenka.txt
+   92  nano piosenka.txt
+   93  nano zwrotka1.txt
+   94  git status
+   95  git add piosenka.txt zwrotka1.txt
+   96  git status
+   97  git commit -m "przeniesienie zwrotki 1"
+   98  nano piosenka.txt
+   99  nano refren1.txt
+  100  git status
+  101  git add piosenka.txt refren1.txt
+  102  git status
+  103  git commit -m "przeniesienie refrenu 1"
+  104  nano piosenka.txt
+  105  nano zwrotka2.txt
+  106  add piosenka.txt zwrotka2.txt
+  107  git commit -m "przeniesienie zwrotki 2"
+  108  git status
+  109  git add piosenka.txt zwrotka2.txt
+  110  git status
+  111  git commit -m "przeniesienie zwrotki 2"
+  112  nano piosenka.txt
+  113  nano refren2.txt
+  114  git add piosenka.txt refren2.txt
+  115  git status
+  116  git commit -m "przeniesienie refrenu 2"
+  117  nano piosenka.txt
+  118  nano zwrotka3.txt
+  119  git add piosenka.txt zwrotka3.txt
+  120  git status
+  121  git commit -m "przeniesienie zwrotki 3"
+  122  nano piosenka.txt
+  123  nano refren3.txt
+  124  add piosenka.txt refren3.txt
+  125  git status
+  126  git add piosenka.txt refren3.txt
+  127  git status
+  128  git commit -m "przeniesienie refrenu 3"
+  129  nano piosenka.txt
+  130  nano zwrotka4.txt
+  131  git status
+  132  git add .
+  133  git status
+  134  git commit -m "przeniesienie zwrotki 4"
+  135  start refren1.txt
+  136  cat refren1.txt
+  137  git status
+  138  git add refren1.txt
+  139  git commit -m "usuniecie jednej linijki refrenu"
+  140  git revert
+  141  git revert refren1.txt
+  142  cat refren1.txt
+  143  git diff refren1.txt
+  144  git log
+  145  git revert 0762c0e528543b1a2148a49a76489bddf5fd3bbd
+  146  cat refren1.txt
+  147  git status
+  148  git add .
+  149  git commit -m "cofniecie usuniecia jednej linijki refrenu"
+  150  pwd
+  151  ls
+  152  rm refren2.txt refren3.txt
+  153  ls
+  154  nano piosenka.txt
+  155  git mv refren1.txt refren.txt
+  156  ls
+  157  git status
+  158  git add .
+  159  git commit -m "usuniecie plików refrenu i zastapienie jednym"
+  160  git status
+  161  ls
+  162  git log -p piosenka.txt
+  163  git log -p refren.txt
+  164  git log -p zwrotka1.txt
+  165  git log -p zwrotka2,txt
+  166  git log -p zwrotka3.txt
+  167  git log -p zwrotka4.txt
+  168  git log > historia.txt
+  169  git log > historia.txt
+  170  history > historia_terminala.txt

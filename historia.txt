@@ -1,0 +1,67 @@
+commit 42b99d503b3979a76bfede2b050203bbff7f5737
+Author: Patrycja Rybarczyk <patrycja.k.rybarczyk@gmail.com>
+Date:   Sun Jan 12 02:48:16 2025 +0100
+
+    usuniecie plików refrenu i zastapienie jednym
+
+commit 257e6b3c362d6f408ce5a7b7fad34524f02bc3de
+Author: Patrycja Rybarczyk <patrycja.k.rybarczyk@gmail.com>
+Date:   Sun Jan 12 02:41:44 2025 +0100
+
+    Revert "usuniecie jednej linijki refrenu"
+    
+    This reverts commit 0762c0e528543b1a2148a49a76489bddf5fd3bbd.
+
+commit 0762c0e528543b1a2148a49a76489bddf5fd3bbd
+Author: Patrycja Rybarczyk <patrycja.k.rybarczyk@gmail.com>
+Date:   Sun Jan 12 02:29:12 2025 +0100
+
+    usuniecie jednej linijki refrenu
+
+commit 4fd68040bbaeb9d8bee7007e0e0d0819f1503855
+Author: Patrycja Rybarczyk <patrycja.k.rybarczyk@gmail.com>
+Date:   Sun Jan 12 02:26:52 2025 +0100
+
+    przeniesienie zwrotki 4
+
+commit 4c8f067d76703b50b6c65dca9abf21aa48a7e16b
+Author: Patrycja Rybarczyk <patrycja.k.rybarczyk@gmail.com>
+Date:   Sun Jan 12 02:25:12 2025 +0100
+
+    przeniesienie refrenu 3
+
+commit 7f5bdd34bcc568a07c2bc79e97af628454142b1c
+Author: Patrycja Rybarczyk <patrycja.k.rybarczyk@gmail.com>
+Date:   Sun Jan 12 02:23:11 2025 +0100
+
+    przeniesienie zwrotki 3
+
+commit 1e2c1c1c510d8f0af105253ec4b8aad8884642cc
+Author: Patrycja Rybarczyk <patrycja.k.rybarczyk@gmail.com>
+Date:   Sun Jan 12 02:20:24 2025 +0100
+
+    przeniesienie refrenu 2
+
+commit aa9d89dec09e861e2cb77319fe8ae9e75a073fea
+Author: Patrycja Rybarczyk <patrycja.k.rybarczyk@gmail.com>
+Date:   Sun Jan 12 02:16:47 2025 +0100
+
+    przeniesienie zwrotki 2
+
+commit 9b6f372675ff40f12c482fe90e64d85315b8e475
+Author: Patrycja Rybarczyk <patrycja.k.rybarczyk@gmail.com>
+Date:   Sun Jan 12 02:12:20 2025 +0100
+
+    przeniesienie refrenu 1
+
+commit b4995532ee434e59f10b28ef8bfe503449db88d5
+Author: Patrycja Rybarczyk <patrycja.k.rybarczyk@gmail.com>
+Date:   Sun Jan 12 02:02:47 2025 +0100
+
+    przeniesienie zwrotki 1
+
+commit 840506d0ac5c29f268fa191d15565453ca65434f
+Author: Patrycja Rybarczyk <patrycja.k.rybarczyk@gmail.com>
+Date:   Sun Jan 12 01:53:25 2025 +0100
+
+    dodanie pliku piosenka.txt
